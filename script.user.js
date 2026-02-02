@@ -5,7 +5,7 @@
 // @author       Jesús Lorenzo
 // @grant        GM_xmlhttpRequest
 // @connect      *
-// @require      https://github.com/FlJesusLorenzo/tampermonkey-odoo-rpc/raw/refs/heads/main/OdooRPC.js
+// @require      https://github.com/Zarritas/tampermonkey-odoo-rpc/raw/refs/heads/main/OdooRPC.js
 // ==/UserScript==
 
 (function () {
